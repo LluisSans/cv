@@ -24,3 +24,5 @@ Idiomas
 * Catalán: nativo
 * Español: nativo
 * Inglés: b1
+
+foto.jpg
